@@ -1,0 +1,44 @@
+{
+  "_from": "wood-schedule@1.0.5",
+  "_id": "wood-schedule@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-y+MC9Z+pDNp2GPBCl5VHwxqmL6jWs/zcT3OaOo6Km6qHTO5HsKHak65JAewrWNaOBfmeto3er4duhcEQJ+Wvyw==",
+  "_location": "/wood-schedule",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "wood-schedule@1.0.5",
+    "name": "wood-schedule",
+    "escapedName": "wood-schedule",
+    "rawSpec": "1.0.5",
+    "saveSpec": null,
+    "fetchSpec": "1.0.5"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://10.0.1.26:4873/wood-schedule/-/wood-schedule-1.0.5.tgz",
+  "_shasum": "ec3b4e74e2260db13f8bc310b0e88e9f0b64bf69",
+  "_spec": "wood-schedule@1.0.5",
+  "_where": "D:\\weixin-manage1\\server\\weixin",
+  "author": {
+    "name": "blucehuang"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "task schedule based on node-schedule for wood framework",
+  "keywords": [
+    "wood",
+    "schedule",
+    "plugin"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "wood-schedule",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.6"
+}
